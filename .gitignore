@@ -1,0 +1,12 @@
+# Node Dependencies
+node_modules
+
+# Logs
+debug.log
+
+#infromation
+config.json
+
+.env
+# Local Netlify folder
+.netlify
